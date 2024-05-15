@@ -22,7 +22,7 @@ pip install -r requirements.txt
 ```
 
 ### 2. Setting up API Keys
-- Open the .env file and populate:
+- Create the .env file and populate:
 ```
 OPENAI_API_KEY = "sk-xxx"
 SERPER_API_KEY = "xxx"
