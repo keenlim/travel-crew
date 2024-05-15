@@ -10,7 +10,7 @@ Built with CrewAI as an Agentic framework as well as FastAPI, it is able to gene
 ### 1. Installation and Setup
 - Clone the repository: 
 ```
-git clone 
+git clone "https://github.com/keenlim/travel-crew.git"
 cd travel-crew
 ```
 
